@@ -73,6 +73,10 @@
   margin-bottom: 32px;
 }
 
+.back-circle.selected:hover {
+  background-color: hsl(25, 97%, 53%);
+}
+
 .ratings {
   display: flex;
   justify-content: space-between;
